@@ -375,6 +375,6 @@ public class BoardUpdateService implements IBoardService{
 
 - context.xml 데이터베이스 계정이 필요합니다.
 
-- TeamPrj.sql의 query 실행을 통한 table 생성이 필요 합니다.
+- MVCPrj.sql의 query 실행을 통한 table 생성이 필요 합니다.
 
 - 서버 구동 이후 크롬에서 실행하길 권장 합니다.
