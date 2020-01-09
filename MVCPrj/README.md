@@ -19,32 +19,21 @@
 
 주요 기능 설명
 ------
-<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/1.png">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/MVCPrj/images/1.JPG">
 <br>
-<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/2.png">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/MVCPrj/images/2.JPG">
 <br>
-<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/3.png">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/MVCPrj/images/3.JPG">
 <br>
-<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/4.png">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/MVCPrj/images/4.JPG">
 <br>
-<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/5.png">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/MVCPrj/images/5.JPG">
 <br>
-<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/6.png">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/MVCPrj/images/6.JPG">
 <br>
-<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/7.png">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/MVCPrj/images/7.JPG">
 <br>
-<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/8.png">
-<br>
-<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/9.png">
-<br>
-<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/10.png">
-<br>
-<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/11.png">
-<br>
-<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/12.png" width="300px">&nbsp;
-<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/13.png" width="300px">
-<br>
-<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/14.png">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/MVCPrj/images/8.JPG">
 <br>
 
 일부 코드 및 파일 명세
