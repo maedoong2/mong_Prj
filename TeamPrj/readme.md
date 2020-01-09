@@ -41,7 +41,7 @@ jre1.8.0, mysql-connector-java-8.0.18.jar, activation.jar, mail.jar, cos.jar, JD
 <br>
 <img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/11.png">
 <br>
-<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/12.png" width="300px">&nbps
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/12.png" width="300px">&nbsp;
 <img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/13.png" width="300px">
 <br>
 <img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/14.png">
