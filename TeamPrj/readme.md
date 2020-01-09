@@ -15,7 +15,7 @@ JAVA / JSP 기반 차량관리 시스템
 --------
 jre1.8.0, mysql-connector-java-8.0.18.jar, activation.jar, mail.jar, cos.jar, JDBC, JSP2.3, Servlet3.1, HTML5, CSS3, Javascript1.8.5, EL3.0, JSTL1.2, jQuery3.2.1, XML, Ajax, JSON, Bootstrap3.3.7, OpenApi (KakaoMap) etc, Eclipse 4.11.0, apache-tomcat-9.0.29, MYSQL Workbench 8.0CE etc.
 
-이승욱, 김다솔 2명으로 프로젝트를 공동 진행했습니다.
+김다솔, 이승욱 2명으로 프로젝트를 공동 진행했습니다.
 
 주요 기능 설명
 ------
