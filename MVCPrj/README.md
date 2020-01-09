@@ -2,7 +2,6 @@
 # MVCPrj
 ## JSP MVC Model1 & MVC Model2 기반 회원제 게시판 웹사이트
 
-=======
 목차
 - [프로젝트 소개](#프로젝트-소개)
 - [사용(가능)한 기술 및 툴](#사용(가능)한-기술-및-툴)
@@ -379,7 +378,7 @@ public class BoardUpdateService implements IBoardService{
 * ##### user_delete.jsp 
 회원정보 삭제 여부를 되묻는 화면을 보여준다.
 * ##### user_delete_ok.jsp 
-
+회원정보 삭제를 처리하며 로그아웃을 시킨다.
 
 구동 참고 
 --------
