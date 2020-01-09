@@ -19,32 +19,32 @@ jre1.8.0, mysql-connector-java-8.0.18.jar, activation.jar, mail.jar, cos.jar, JD
 
 주요 기능 설명
 ------
-<img src="https://github.com/mmdltmddnr/worknet/blob/master/images/join.PNG">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/1.png">
 <br>
-<img src="https://github.com/mmdltmddnr/worknet/blob/master/images/main(non-login).PNG">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/2.png">
 <br>
-<img src="https://github.com/mmdltmddnr/worknet/blob/master/images/usercar.PNG">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/3.png">
 <br>
-<img src="https://github.com/mmdltmddnr/worknet/blob/master/images/main(login).PNG">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/4.png">
 <br>
-<img src="https://github.com/mmdltmddnr/worknet/blob/master/images/repair.PNG">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/5.png">
 <br>
-<img src="https://github.com/mmdltmddnr/worknet/blob/master/images/repairbbs.PNG">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/6.png">
 <br>
-<img src="https://github.com/mmdltmddnr/worknet/blob/master/images/bbs.PNG">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/7.png">
 <br>
-<img src="https://github.com/mmdltmddnr/worknet/blob/master/images/bbs%20write.PNG">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/8.png">
 <br>
-<img src="https://github.com/mmdltmddnr/worknet/blob/master/images/bbs%20view%2Ccount%2Creply.PNG">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/9.png">
 <br>
-<img src="https://github.com/mmdltmddnr/worknet/blob/master/images/bbs%20modify.PNG">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/10.png">
 <br>
-<img src="https://github.com/mmdltmddnr/worknet/blob/master/images/kakaoMapAPI.PNG">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/11.png">
 <br>
-<img src="https://github.com/mmdltmddnr/worknet/blob/master/images/user%2Cbbs%20table.PNG" width="300px">%nbps
-<img src="https://github.com/mmdltmddnr/worknet/blob/master/images/bbsreply%2Crepair%20table.PNG" width="300px">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/12.png" width="300px">&nbps
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/13.png" width="300px">
 <br>
-<img src="https://github.com/mmdltmddnr/worknet/blob/master/images/directory.PNG">
+<img src="https://github.com/maedoong2/mong_Prj/blob/master/TeamPrj/images/14.png">
 <br>
 
 #### ▷ 회원가입
