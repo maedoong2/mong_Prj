@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
 <h1>JAVA / JSP 기반 차량관리 시스템<h1>
 <hr>
 목차
@@ -154,3 +161,6 @@ https://github.com/mmdltmddnr/worknet /util/Gmail.java의 구글아이디와 비
 BBS query.sql의 query 실행을 통한 table 생성이 필요 합니다.
 
 서버 구동 이후 크롬 및 익스플로러에서 실행하길 권장 합니다.
+
+<body>
+</html>
